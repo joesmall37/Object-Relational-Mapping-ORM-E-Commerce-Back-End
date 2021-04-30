@@ -1,0 +1,24 @@
+{
+  "name": "object-relational-mapping-orm-e-commerce-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joesmall37/Object-Relational-Mapping-ORM-E-Commerce-Back-End.git"
+  },
+  "author": "Joseph Small",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joesmall37/Object-Relational-Mapping-ORM-E-Commerce-Back-End/issues"
+  },
+  "homepage": "https://github.com/joesmall37/Object-Relational-Mapping-ORM-E-Commerce-Back-End#readme",
+  "dependencies": {
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  }
+}
