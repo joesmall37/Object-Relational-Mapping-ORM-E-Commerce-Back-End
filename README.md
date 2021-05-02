@@ -17,7 +17,8 @@
 - Mysql2 dependency was installed for the application
 
 ## Usage
-  - 
+  - The application provides a back end for an e-commerce site.
+  - It uses an Express.js API to use Sequelize to interact with a MySQL database
 ## Deployed Application
   - [Link to video demo of application]()
 - ![image]()
