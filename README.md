@@ -21,7 +21,7 @@
   - It uses an Express.js API to use Sequelize to interact with a MySQL database
 ## Deployed Application
   - [Link to video demo of application]()
-- ![image]()
+- ![image](https://user-images.githubusercontent.com/63420051/116928711-6ac81200-ac2b-11eb-83fd-032e147c9b2e.png)
 ## Contribution 
   - Joseph Small
 ## License 
