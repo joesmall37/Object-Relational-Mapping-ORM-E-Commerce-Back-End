@@ -3,7 +3,7 @@ const routes = require('./routes');
 
 
 const app = express();
-const PORT = process.env.PORT || 3306;
+const PORT = process.env.PORT || 3001;
 
 app.use(express.json());
 app.use(express.urlencoded({
@@ -13,5 +13,5 @@ app.use(express.urlencoded({
 app.use(routes);
 
 app.listen(PORT, () => {
-    console.log(`Server is listening on prot${PORT}`)
+    console.log(`Server is listening on port${PORT}`)
 })
