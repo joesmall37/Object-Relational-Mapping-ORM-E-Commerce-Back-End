@@ -20,7 +20,7 @@
   - The application provides a back end for an e-commerce site.
   - It uses an Express.js API to use Sequelize to interact with a MySQL database
 ## Deployed Application
-  - [Link to video demo of application]()
+  - [Link to video demo of application](https://drive.google.com/file/d/1hEs-C-bVUccIef2d09vWXWarzqCIAk47/view)
 - ![image](https://user-images.githubusercontent.com/63420051/116928711-6ac81200-ac2b-11eb-83fd-032e147c9b2e.png)
 ## Contribution 
   - Joseph Small
